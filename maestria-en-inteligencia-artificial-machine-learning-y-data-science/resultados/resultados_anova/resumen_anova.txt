@@ -1,0 +1,47 @@
+COMPROBACIÓN DE HIPÓTESIS - ANOVA FACTORIAL 2x2
+================================================================================
+
+Factor 1: Grupo (Control / Experimental)
+Factor 2: Momento (Pre-test / Post-test)
+Efecto principal de interés: Grupo × Momento
+Nivel de significancia: α = 0.05
+
+INTERPRETACIÓN:
+La interacción Grupo × Momento permite evaluar si la evolución entre el pre-test y el post-test difiere entre el grupo control y el experimental.
+
+Variable: Sistema de gestión académica web
+  F = 136.1823
+  gl = 1.0
+  p = 0.000000
+  Eta² parcial = 0.3066
+  Magnitud: efecto grande
+  Significancia: Significativo
+  Decisión: Rechazar H0
+
+Variable: Chatbot
+  F = 78.3064
+  gl = 1.0
+  p = 0.000000
+  Eta² parcial = 0.2027
+  Magnitud: efecto grande
+  Significancia: Significativo
+  Decisión: Rechazar H0
+
+Variable: Gestión académica
+  F = 109.2154
+  gl = 1.0
+  p = 0.000000
+  Eta² parcial = 0.2618
+  Magnitud: efecto grande
+  Significancia: Significativo
+  Decisión: Rechazar H0
+
+Variable: Atención al cliente
+  F = 135.3322
+  gl = 1.0
+  p = 0.000000
+  Eta² parcial = 0.3053
+  Magnitud: efecto grande
+  Significancia: Significativo
+  Decisión: Rechazar H0
+

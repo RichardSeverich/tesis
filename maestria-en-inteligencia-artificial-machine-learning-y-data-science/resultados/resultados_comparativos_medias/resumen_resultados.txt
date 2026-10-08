@@ -1,0 +1,44 @@
+RESULTADOS COMPARATIVOS
+===========================================================================
+
+VARIABLES ANALIZADAS
+---------------------------------------------------------------------------
+
+Sistema de gestión académica web (4 indicadores):
+  - Tiempo Inscripción
+  - Facilidad Inscripción
+  - Acceso Inscripción
+  - Satisfacción Inscripciones
+
+Chatbot (4 indicadores):
+  - Tiempo información
+  - Facilidad información
+  - Numero Consultas
+  - Calidad Atención
+
+Gestión académica (4 indicadores):
+  - Tiempo Calificación
+  - Facilidad Calificación
+  - Acceso Calificaciones
+  - Satisfacción Calificaciones
+
+Atención al cliente (4 indicadores):
+  - Tiempo Atención Cliente
+  - Facilidad Atención Cliente
+  - Acceso Atención Cliente
+  - Satisfacción Atención Cliente
+
+
+RESULTADOS POR VARIABLE
+---------------------------------------------------------------------------
+
+                        Variable  Control Pre-test  Control Post-test  Cambio Control  Variación Control %  Experimental Pre-test  Experimental Post-test  Cambio Experimental  Variación Experimental %  Diferencia de diferencias  N.º Indicadores
+Sistema de gestión académica web            2.9455             2.8718         -0.0737              -2.5027                 3.0577                  4.2885               1.2308                   40.2516                     1.3045                4
+                         Chatbot            2.9455             3.0449          0.0994               3.3732                 3.0000                  4.2179               1.2179                   40.5983                     1.1186                4
+               Gestión académica            2.9840             3.0128          0.0288               0.9667                 2.9135                  4.1571               1.2436                   42.6843                     1.2147                4
+             Atención al cliente            2.9776             2.9904          0.0128               0.4306                 2.9199                  4.2179               1.2981                   44.4566                     1.2853                4
+
+RESULTADO GLOBAL
+---------------------------------------------------------------------------
+ Control Pre-test  Control Post-test  Cambio Control  Experimental Pre-test  Experimental Post-test  Cambio Experimental  Diferencia de diferencias
+           2.9631               2.98          0.0168                 2.9728                  4.2204               1.2476                     1.2308

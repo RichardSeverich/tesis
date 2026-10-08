@@ -1,0 +1,50 @@
+COMPROBACIÓN DE HIPÓTESIS - PRUEBA T DE STUDENT
+================================================================================
+
+Nivel de significancia: α = 0.05
+
+PRUEBA PRINCIPAL: T DE STUDENT INDEPENDIENTE SOBRE EL CAMBIO PRE-TEST/POST-TEST
+
+Cambio = Post-test - Pre-test
+Comparación = Cambio Experimental - Cambio Control
+
+Variable: Sistema de gestión académica web
+  Media cambio experimental: 1.2308
+  Media cambio control: -0.0737
+  Diferencia de cambios: 1.3045
+  t = 11.7832
+  gl = 153.93
+  p = 0.000000
+  Cohen's d = 1.8868\n  Efecto: efecto grande
+  Decisión: Rechazar H0
+
+Variable: Chatbot
+  Media cambio experimental: 1.2179
+  Media cambio control: 0.0994
+  Diferencia de cambios: 1.1186
+  t = 8.7586
+  gl = 146.53
+  p = 0.000000
+  Cohen's d = 1.4025\n  Efecto: efecto grande
+  Decisión: Rechazar H0
+
+Variable: Gestión académica
+  Media cambio experimental: 1.2436
+  Media cambio control: 0.0288
+  Diferencia de cambios: 1.2147
+  t = 10.3104
+  gl = 149.55
+  p = 0.000000
+  Cohen's d = 1.6510\n  Efecto: efecto grande
+  Decisión: Rechazar H0
+
+Variable: Atención al cliente
+  Media cambio experimental: 1.2981
+  Media cambio control: 0.0128
+  Diferencia de cambios: 1.2853
+  t = 11.5696
+  gl = 152.50
+  p = 0.000000
+  Cohen's d = 1.8526\n  Efecto: efecto grande
+  Decisión: Rechazar H0
+

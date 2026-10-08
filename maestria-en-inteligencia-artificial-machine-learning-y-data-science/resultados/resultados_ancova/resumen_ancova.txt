@@ -1,0 +1,63 @@
+COMPROBACIÓN DE HIPÓTESIS - ANCOVA
+================================================================================
+
+Modelo: Post-test ~ Pre-test + Grupo
+Nivel de significancia: α = 0.05
+
+El efecto de mayor interés es GRUPO, porque determina si existen diferencias entre Control y Experimental en el post-test después de controlar estadísticamente el pre-test.
+
+RESULTADOS
+--------------------------------------------------------------------------------
+
+Variable: Sistema de gestión académica web
+  N = 156
+  F Grupo = 341.0996
+  gl Grupo = 1.0
+  p Grupo = 0.000000
+  Eta² parcial = 0.6903
+  Magnitud = efecto grande
+  Decisión = Rechazar H0
+  R² = 0.6936
+  R² ajustado = 0.6895
+
+Variable: Chatbot
+  N = 156
+  F Grupo = 196.0317
+  gl Grupo = 1.0
+  p Grupo = 0.000000
+  Eta² parcial = 0.5616
+  Magnitud = efecto grande
+  Decisión = Rechazar H0
+  R² = 0.5618
+  R² ajustado = 0.5561
+
+Variable: Gestión académica
+  N = 156
+  F Grupo = 192.0734
+  gl Grupo = 1.0
+  p Grupo = 0.000000
+  Eta² parcial = 0.5566
+  Magnitud = efecto grande
+  Decisión = Rechazar H0
+  R² = 0.5588
+  R² ajustado = 0.5530
+
+Variable: Atención al cliente
+  N = 156
+  F Grupo = 254.1750
+  gl Grupo = 1.0
+  p Grupo = 0.000000
+  Eta² parcial = 0.6242
+  Magnitud = efecto grande
+  Decisión = Rechazar H0
+  R² = 0.6253
+  R² ajustado = 0.6204
+
+================================================================================
+SUPUESTO DE HOMOGENEIDAD DE PENDIENTES
+================================================================================
+
+Sistema de gestión académica web | F=0.9416 | p=0.333402 | Compatible
+Chatbot | F=0.9483 | p=0.331695 | Compatible
+Gestión académica | F=0.0027 | p=0.958440 | Compatible
+Atención al cliente | F=0.0062 | p=0.937458 | Compatible

@@ -1,0 +1,206 @@
+ANOVA DE 3 MEDICIONES POR INDICADOR
+==========================================================================================
+
+Condiciones analizadas:
+1. Control Pre-test
+2. Control Post-test
+3. Experimental Pre-test
+
+Experimental Post-test: EXCLUIDO
+Nivel de significancia: α = 0.05
+
+El análisis corresponde a un ANOVA de un factor aplicado independientemente a cada uno de los 16 indicadores.
+No se calcula interacción Grupo × Momento porque Experimental Post-test fue excluido del análisis.
+
+------------------------------------------------------------------------------------------
+Dimensión: Sistema de gestión académica web
+Indicador: Tiempo Inscripción
+Control Pre-test: 2.9103
+Control Post-test: 2.8846
+Experimental Pre-test: 2.9615
+F = 0.1146
+gl = (2, 231)
+p = 0.891783
+Eta² = 0.0010
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Sistema de gestión académica web
+Indicador: Facilidad Inscripción
+Control Pre-test: 2.7692
+Control Post-test: 2.8077
+Experimental Pre-test: 2.9744
+F = 0.8117
+gl = (2, 231)
+p = 0.445362
+Eta² = 0.0070
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Sistema de gestión académica web
+Indicador: Acceso Inscripción
+Control Pre-test: 3.0256
+Control Post-test: 2.9615
+Experimental Pre-test: 3.1154
+F = 0.3778
+gl = (2, 231)
+p = 0.685773
+Eta² = 0.0033
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Sistema de gestión académica web
+Indicador: Satisfacción Inscripciones
+Control Pre-test: 3.0769
+Control Post-test: 2.8333
+Experimental Pre-test: 3.1795
+F = 2.1587
+gl = (2, 231)
+p = 0.117795
+Eta² = 0.0183
+Magnitud = Efecto pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Chatbot
+Indicador: Tiempo información
+Control Pre-test: 2.8462
+Control Post-test: 2.8590
+Experimental Pre-test: 3.0000
+F = 0.5137
+gl = (2, 231)
+p = 0.598979
+Eta² = 0.0044
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Chatbot
+Indicador: Facilidad información
+Control Pre-test: 3.0641
+Control Post-test: 3.3462
+Experimental Pre-test: 3.0385
+F = 1.9222
+gl = (2, 231)
+p = 0.148617
+Eta² = 0.0164
+Magnitud = Efecto pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Chatbot
+Indicador: Numero Consultas
+Control Pre-test: 2.9744
+Control Post-test: 3.0769
+Experimental Pre-test: 2.8590
+F = 0.7263
+gl = (2, 231)
+p = 0.484787
+Eta² = 0.0062
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Chatbot
+Indicador: Calidad Atención
+Control Pre-test: 2.8974
+Control Post-test: 2.8974
+Experimental Pre-test: 3.1026
+F = 0.9239
+gl = (2, 231)
+p = 0.398436
+Eta² = 0.0079
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Gestión académica
+Indicador: Tiempo Calificación
+Control Pre-test: 2.8205
+Control Post-test: 2.9231
+Experimental Pre-test: 2.9487
+F = 0.3155
+gl = (2, 231)
+p = 0.729729
+Eta² = 0.0027
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Gestión académica
+Indicador: Facilidad Calificación
+Control Pre-test: 3.0385
+Control Post-test: 3.0641
+Experimental Pre-test: 2.9487
+F = 0.3043
+gl = (2, 231)
+p = 0.737939
+Eta² = 0.0026
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Gestión académica
+Indicador: Acceso Calificaciones
+Control Pre-test: 2.9872
+Control Post-test: 3.0128
+Experimental Pre-test: 2.8590
+F = 0.4612
+gl = (2, 231)
+p = 0.631113
+Eta² = 0.0040
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Gestión académica
+Indicador: Satisfacción Calificaciones
+Control Pre-test: 3.0897
+Control Post-test: 3.0513
+Experimental Pre-test: 2.8974
+F = 0.7731
+gl = (2, 231)
+p = 0.462785
+Eta² = 0.0066
+Magnitud = Efecto muy pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Atención al cliente
+Indicador: Tiempo Atención Cliente
+Control Pre-test: 2.9615
+Control Post-test: 2.7436
+Experimental Pre-test: 3.0513
+F = 1.6737
+gl = (2, 231)
+p = 0.189823
+Eta² = 0.0143
+Magnitud = Efecto pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Atención al cliente
+Indicador: Facilidad Atención Cliente
+Control Pre-test: 3.0769
+Control Post-test: 2.9487
+Experimental Pre-test: 2.8077
+F = 1.5601
+gl = (2, 231)
+p = 0.212325
+Eta² = 0.0133
+Magnitud = Efecto pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Atención al cliente
+Indicador: Acceso Atención Cliente
+Control Pre-test: 2.8846
+Control Post-test: 3.1538
+Experimental Pre-test: 3.0641
+F = 1.2597
+gl = (2, 231)
+p = 0.285679
+Eta² = 0.0108
+Magnitud = Efecto pequeño
+Decisión = No rechazar H0
+------------------------------------------------------------------------------------------
+Dimensión: Atención al cliente
+Indicador: Satisfacción Atención Cliente
+Control Pre-test: 2.9872
+Control Post-test: 3.1154
+Experimental Pre-test: 2.7564
+F = 2.3353
+gl = (2, 231)
+p = 0.099060
+Eta² = 0.0198
+Magnitud = Efecto pequeño
+Decisión = No rechazar H0

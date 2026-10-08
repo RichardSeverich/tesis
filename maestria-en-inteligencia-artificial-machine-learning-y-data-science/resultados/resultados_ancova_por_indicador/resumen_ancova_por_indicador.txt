@@ -1,0 +1,266 @@
+COMPROBACIÓN DE HIPÓTESIS - ANCOVA POR INDICADOR
+==========================================================================================
+
+Modelo: Post-test ~ Pre-test + Grupo
+Nivel de significancia: α = 0.05
+El efecto de mayor interés es GRUPO, ajustado por el Pre-test.
+El análisis se realiza individualmente para los 16 indicadores.
+
+RESULTADOS PRINCIPALES
+------------------------------------------------------------------------------------------
+
+Dimensión: Sistema de gestión académica web
+Indicador: Tiempo Inscripción
+  N = 156
+  F Grupo = 55.2147
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2652
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2667
+  R² ajustado = 0.2571
+
+Dimensión: Sistema de gestión académica web
+Indicador: Facilidad Inscripción
+  N = 156
+  F Grupo = 85.4549
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.3584
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.3758
+  R² ajustado = 0.3677
+
+Dimensión: Sistema de gestión académica web
+Indicador: Acceso Inscripción
+  N = 156
+  F Grupo = 93.6669
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.3797
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.4003
+  R² ajustado = 0.3924
+
+Dimensión: Sistema de gestión académica web
+Indicador: Satisfacción Inscripciones
+  N = 156
+  F Grupo = 95.5189
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.3844
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.3852
+  R² ajustado = 0.3771
+
+Dimensión: Chatbot
+Indicador: Tiempo información
+  N = 156
+  F Grupo = 109.5798
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.4173
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.4176
+  R² ajustado = 0.4100
+
+Dimensión: Chatbot
+Indicador: Facilidad información
+  N = 156
+  F Grupo = 45.4191
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2289
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2297
+  R² ajustado = 0.2196
+
+Dimensión: Chatbot
+Indicador: Numero Consultas
+  N = 156
+  F Grupo = 44.5771
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2256
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2263
+  R² ajustado = 0.2162
+
+Dimensión: Chatbot
+Indicador: Calidad Atención
+  N = 156
+  F Grupo = 51.3390
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2512
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2528
+  R² ajustado = 0.2431
+
+Dimensión: Gestión académica
+Indicador: Tiempo Calificación
+  N = 156
+  F Grupo = 63.8104
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2943
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2943
+  R² ajustado = 0.2851
+
+Dimensión: Gestión académica
+Indicador: Facilidad Calificación
+  N = 156
+  F Grupo = 42.1512
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2160
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2182
+  R² ajustado = 0.2080
+
+Dimensión: Gestión académica
+Indicador: Acceso Calificaciones
+  N = 156
+  F Grupo = 54.7413
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2635
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2655
+  R² ajustado = 0.2559
+
+Dimensión: Gestión académica
+Indicador: Satisfacción Calificaciones
+  N = 156
+  F Grupo = 59.6188
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2804
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2818
+  R² ajustado = 0.2725
+
+Dimensión: Atención al cliente
+Indicador: Tiempo Atención Cliente
+  N = 156
+  F Grupo = 105.4559
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.4080
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.4093
+  R² ajustado = 0.4016
+
+Dimensión: Atención al cliente
+Indicador: Facilidad Atención Cliente
+  N = 156
+  F Grupo = 75.2990
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.3298
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.3300
+  R² ajustado = 0.3212
+
+Dimensión: Atención al cliente
+Indicador: Acceso Atención Cliente
+  N = 156
+  F Grupo = 57.9950
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.2749
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2749
+  R² ajustado = 0.2654
+
+Dimensión: Atención al cliente
+Indicador: Satisfacción Atención Cliente
+  N = 156
+  F Grupo = 35.8204
+  gl Grupo = 1
+  p Grupo = 0.000000
+  Eta² parcial = 0.1897
+  Magnitud = Grande
+  Decisión = Rechazar H0
+  R² = 0.2043
+  R² ajustado = 0.1939
+
+==========================================================================================
+SUPUESTO DE HOMOGENEIDAD DE PENDIENTES
+==========================================================================================
+
+Tiempo Inscripción | F=2.9023 | p=0.090498 | Compatible
+Facilidad Inscripción | F=0.1225 | p=0.726842 | Compatible
+Acceso Inscripción | F=5.8731 | p=0.016549 | No compatible
+Satisfacción Inscripciones | F=0.1569 | p=0.692542 | Compatible
+Tiempo información | F=0.0040 | p=0.949627 | Compatible
+Facilidad información | F=0.0005 | p=0.981911 | Compatible
+Numero Consultas | F=2.6362 | p=0.106526 | Compatible
+Calidad Atención | F=0.3860 | p=0.535335 | Compatible
+Tiempo Calificación | F=0.1913 | p=0.662421 | Compatible
+Facilidad Calificación | F=0.7837 | p=0.377420 | Compatible
+Acceso Calificaciones | F=0.0918 | p=0.762257 | Compatible
+Satisfacción Calificaciones | F=0.1024 | p=0.749429 | Compatible
+Tiempo Atención Cliente | F=1.1503 | p=0.285178 | Compatible
+Facilidad Atención Cliente | F=0.0032 | p=0.955197 | Compatible
+Acceso Atención Cliente | F=0.1340 | p=0.714855 | Compatible
+Satisfacción Atención Cliente | F=2.1974 | p=0.140313 | Compatible
+
+COMPARACIÓN INICIAL
+------------------------------------------------------------------------------------------
+Se comparan Control Pre, Control Post y Experimental Pre.
+Se utilizan t pareada para Control Pre/Post y t independiente para Control Pre/Experimental Pre.
+
+Tiempo Inscripción | Control Pre=2.910 | Control Post=2.885 | Experimental Pre=2.962 | p Control Pre/Post=0.862073 | p equivalencia inicial=0.736767
+Facilidad Inscripción | Control Pre=2.769 | Control Post=2.808 | Experimental Pre=2.974 | p Control Pre/Post=0.810144 | p equivalencia inicial=0.221607
+Acceso Inscripción | Control Pre=3.026 | Control Post=2.962 | Experimental Pre=3.115 | p Control Pre/Post=0.667465 | p equivalencia inicial=0.616354
+Satisfacción Inscripciones | Control Pre=3.077 | Control Post=2.833 | Experimental Pre=3.179 | p Control Pre/Post=0.152157 | p equivalencia inicial=0.537001
+Tiempo información | Control Pre=2.846 | Control Post=2.859 | Experimental Pre=3.000 | p Control Pre/Post=0.940660 | p equivalencia inicial=0.364931
+Facilidad información | Control Pre=3.064 | Control Post=3.346 | Experimental Pre=3.038 | p Control Pre/Post=0.120474 | p equivalencia inicial=0.884212
+Numero Consultas | Control Pre=2.974 | Control Post=3.077 | Experimental Pre=2.859 | p Control Pre/Post=0.584200 | p equivalencia inicial=0.523327
+Calidad Atención | Control Pre=2.897 | Control Post=2.897 | Experimental Pre=3.103 | p Control Pre/Post=1.000000 | p equivalencia inicial=0.251033
+Tiempo Calificación | Control Pre=2.821 | Control Post=2.923 | Experimental Pre=2.949 | p Control Pre/Post=0.545292 | p equivalencia inicial=0.471282
+Facilidad Calificación | Control Pre=3.038 | Control Post=3.064 | Experimental Pre=2.949 | p Control Pre/Post=0.873987 | p equivalencia inicial=0.546879
+Acceso Calificaciones | Control Pre=2.987 | Control Post=3.013 | Experimental Pre=2.859 | p Control Pre/Post=0.884520 | p equivalencia inicial=0.442394
+Satisfacción Calificaciones | Control Pre=3.090 | Control Post=3.051 | Experimental Pre=2.897 | p Control Pre/Post=0.803746 | p equivalencia inicial=0.227898
+Tiempo Atención Cliente | Control Pre=2.962 | Control Post=2.744 | Experimental Pre=3.051 | p Control Pre/Post=0.205882 | p equivalencia inicial=0.624156
+Facilidad Atención Cliente | Control Pre=3.077 | Control Post=2.949 | Experimental Pre=2.808 | p Control Pre/Post=0.398105 | p equivalencia inicial=0.066714
+Acceso Atención Cliente | Control Pre=2.885 | Control Post=3.154 | Experimental Pre=3.064 | p Control Pre/Post=0.125386 | p equivalencia inicial=0.317825
+Satisfacción Atención Cliente | Control Pre=2.987 | Control Post=3.115 | Experimental Pre=2.756 | p Control Pre/Post=0.489511 | p equivalencia inicial=0.178825
+
+COMPARACIÓN COMPLETA
+------------------------------------------------------------------------------------------
+Se incorpora Experimental Post-test y se muestran los cambios brutos y el resultado ANCOVA ajustado.
+
+Tiempo Inscripción | Cambio Control=-0.026 | Cambio Experimental=1.167 | Diferencia de cambios=1.192 | F ANCOVA=55.2147 | p ANCOVA=0.000000 | η²p=0.2652 | Significativo
+Facilidad Inscripción | Cambio Control=0.038 | Cambio Experimental=1.321 | Diferencia de cambios=1.282 | F ANCOVA=85.4549 | p ANCOVA=0.000000 | η²p=0.3584 | Significativo
+Acceso Inscripción | Cambio Control=-0.064 | Cambio Experimental=1.269 | Diferencia de cambios=1.333 | F ANCOVA=93.6669 | p ANCOVA=0.000000 | η²p=0.3797 | Significativo
+Satisfacción Inscripciones | Cambio Control=-0.244 | Cambio Experimental=1.167 | Diferencia de cambios=1.410 | F ANCOVA=95.5189 | p ANCOVA=0.000000 | η²p=0.3844 | Significativo
+Tiempo información | Cambio Control=0.013 | Cambio Experimental=1.321 | Diferencia de cambios=1.308 | F ANCOVA=109.5798 | p ANCOVA=0.000000 | η²p=0.4173 | Significativo
+Facilidad información | Cambio Control=0.282 | Cambio Experimental=1.308 | Diferencia de cambios=1.026 | F ANCOVA=45.4191 | p ANCOVA=0.000000 | η²p=0.2289 | Significativo
+Numero Consultas | Cambio Control=0.103 | Cambio Experimental=1.308 | Diferencia de cambios=1.205 | F ANCOVA=44.5771 | p ANCOVA=0.000000 | η²p=0.2256 | Significativo
+Calidad Atención | Cambio Control=0.000 | Cambio Experimental=0.936 | Diferencia de cambios=0.936 | F ANCOVA=51.3390 | p ANCOVA=0.000000 | η²p=0.2512 | Significativo
+Tiempo Calificación | Cambio Control=0.103 | Cambio Experimental=1.167 | Diferencia de cambios=1.064 | F ANCOVA=63.8104 | p ANCOVA=0.000000 | η²p=0.2943 | Significativo
+Facilidad Calificación | Cambio Control=0.026 | Cambio Experimental=1.154 | Diferencia de cambios=1.128 | F ANCOVA=42.1512 | p ANCOVA=0.000000 | η²p=0.2160 | Significativo
+Acceso Calificaciones | Cambio Control=0.026 | Cambio Experimental=1.346 | Diferencia de cambios=1.321 | F ANCOVA=54.7413 | p ANCOVA=0.000000 | η²p=0.2635 | Significativo
+Satisfacción Calificaciones | Cambio Control=-0.038 | Cambio Experimental=1.308 | Diferencia de cambios=1.346 | F ANCOVA=59.6188 | p ANCOVA=0.000000 | η²p=0.2804 | Significativo
+Tiempo Atención Cliente | Cambio Control=-0.218 | Cambio Experimental=1.179 | Diferencia de cambios=1.397 | F ANCOVA=105.4559 | p ANCOVA=0.000000 | η²p=0.4080 | Significativo
+Facilidad Atención Cliente | Cambio Control=-0.128 | Cambio Experimental=1.462 | Diferencia de cambios=1.590 | F ANCOVA=75.2990 | p ANCOVA=0.000000 | η²p=0.3298 | Significativo
+Acceso Atención Cliente | Cambio Control=0.269 | Cambio Experimental=1.205 | Diferencia de cambios=0.936 | F ANCOVA=57.9950 | p ANCOVA=0.000000 | η²p=0.2749 | Significativo
+Satisfacción Atención Cliente | Cambio Control=0.128 | Cambio Experimental=1.346 | Diferencia de cambios=1.218 | F ANCOVA=35.8204 | p ANCOVA=0.000000 | η²p=0.1897 | Significativo

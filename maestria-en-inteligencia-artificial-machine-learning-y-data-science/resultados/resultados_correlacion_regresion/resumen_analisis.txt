@@ -1,0 +1,59 @@
+ANÁLISIS DE CORRELACIÓN DE PEARSON Y REGRESIÓN LINEAL
+===========================================================================
+
+VARIABLES INDEPENDIENTES:
+- Sistema de gestión académica web
+- Chatbot
+
+VARIABLES DEPENDIENTES:
+- Gestión académica
+- Atención al cliente
+
+INTERPRETACIÓN DE PEARSON:
+El coeficiente r indica la dirección y fuerza de la relación lineal entre dos variables.
+El p-valor permite evaluar su significancia estadística.
+
+INTERPRETACIÓN DE REGRESIÓN:
+R² indica la proporción de variabilidad de la variable dependiente explicada conjuntamente por los dos predictores.
+Los coeficientes Beta permiten comparar la contribución relativa de los predictores dentro de cada modelo.
+
+===========================================================================
+CORRELACIONES PRINCIPALES
+===========================================================================
+
+Control Pre-test | Sistema de gestión académica web -> Gestión académica | r=0.2722 | p=0.0159 | débil positiva
+Control Pre-test | Sistema de gestión académica web -> Atención al cliente | r=-0.1616 | p=0.1574 | débil negativa
+Control Pre-test | Chatbot -> Gestión académica | r=0.0341 | p=0.7671 | muy débil positiva
+Control Pre-test | Chatbot -> Atención al cliente | r=-0.3251 | p=0.0037 | moderada negativa
+Control Post-test | Sistema de gestión académica web -> Gestión académica | r=-0.0348 | p=0.7623 | muy débil negativa
+Control Post-test | Sistema de gestión académica web -> Atención al cliente | r=0.0550 | p=0.6326 | muy débil positiva
+Control Post-test | Chatbot -> Gestión académica | r=0.0074 | p=0.9487 | muy débil positiva
+Control Post-test | Chatbot -> Atención al cliente | r=0.0138 | p=0.9043 | muy débil positiva
+Experimental Pre-test | Sistema de gestión académica web -> Gestión académica | r=-0.0554 | p=0.6303 | muy débil negativa
+Experimental Pre-test | Sistema de gestión académica web -> Atención al cliente | r=-0.0622 | p=0.5884 | muy débil negativa
+Experimental Pre-test | Chatbot -> Gestión académica | r=0.0000 | p=1.0000 | muy débil positiva
+Experimental Pre-test | Chatbot -> Atención al cliente | r=0.0726 | p=0.5273 | muy débil positiva
+Experimental Post-test | Sistema de gestión académica web -> Gestión académica | r=-0.0422 | p=0.7135 | muy débil negativa
+Experimental Post-test | Sistema de gestión académica web -> Atención al cliente | r=0.1695 | p=0.1380 | débil positiva
+Experimental Post-test | Chatbot -> Gestión académica | r=-0.0998 | p=0.3844 | muy débil negativa
+Experimental Post-test | Chatbot -> Atención al cliente | r=-0.2225 | p=0.0503 | débil negativa
+
+===========================================================================
+REGRESIONES
+===========================================================================
+
+Control Pre-test | Gestión académica | R=0.2723 | R²=0.0742 | R² ajustado=0.0495 | F=3.0034 | p=0.0556
+Control Pre-test | Atención al cliente | R=0.3450 | R²=0.1190 | R² ajustado=0.0955 | F=5.0655 | p=0.0086
+Control Post-test | Gestión académica | R=0.0363 | R²=0.0013 | R² ajustado=-0.0253 | F=0.0494 | p=0.9518
+Control Post-test | Atención al cliente | R=0.0558 | R²=0.0031 | R² ajustado=-0.0235 | F=0.1170 | p=0.8898
+Experimental Pre-test | Gestión académica | R=0.0555 | R²=0.0031 | R² ajustado=-0.0235 | F=0.1157 | p=0.8909
+Experimental Pre-test | Atención al cliente | R=0.0928 | R²=0.0086 | R² ajustado=-0.0178 | F=0.3261 | p=0.7228
+Experimental Post-test | Gestión académica | R=0.1117 | R²=0.0125 | R² ajustado=-0.0138 | F=0.4741 | p=0.6243
+Experimental Post-test | Atención al cliente | R=0.2698 | R²=0.0728 | R² ajustado=0.0480 | F=2.9433 | p=0.0588
+
+===========================================================================
+REGRESIÓN SOBRE CAMBIOS - GRUPO EXPERIMENTAL
+===========================================================================
+
+Gestión académica | R=0.0513 | R²=0.0026 | R² ajustado=-0.0240 | F=0.0990 | p=0.9059
+Atención al cliente | R=0.0826 | R²=0.0068 | R² ajustado=-0.0197 | F=0.2579 | p=0.7733

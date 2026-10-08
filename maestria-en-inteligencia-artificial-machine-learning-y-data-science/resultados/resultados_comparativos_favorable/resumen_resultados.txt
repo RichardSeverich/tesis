@@ -1,0 +1,19 @@
+RESULTADOS COMPARATIVOS
+===========================================================================
+
+Criterio de resultado favorable: respuestas codificadas con valores 4 y 5.
+
+RESULTADOS POR VARIABLE
+---------------------------------------------------------------------------
+
+                        Variable  Control Pre-test (%)  Control Post-test (%)  Incremento Control (pp)  Experimental Pre-test (%)  Experimental Post-test (%)  Incremento Experimental (pp)  Diferencia de diferencias (pp)  N.º Indicadores
+Sistema de gestión académica web                 28.21                  27.88                    -0.32                      32.05                       83.97                         51.92                           52.24                4
+                         Chatbot                 30.13                  34.29                     4.17                      31.41                       83.97                         52.56                           48.40                4
+               Gestión académica                 31.41                  31.73                     0.32                      26.28                       81.09                         54.81                           54.49                4
+             Atención al cliente                 31.41                  26.92                    -4.49                      27.56                       82.69                         55.13                           59.62                4
+
+RESULTADO GLOBAL
+---------------------------------------------------------------------------
+
+ Control Pre-test (%)  Control Post-test (%)  Incremento Control (pp)  Experimental Pre-test (%)  Experimental Post-test (%)  Incremento Experimental (pp)  Diferencia de diferencias (pp)
+                30.29                  30.21                    -0.08                      29.33                       82.93                         53.61                           53.69

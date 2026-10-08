@@ -1,0 +1,60 @@
+COMPROBACIÓN DE HIPÓTESIS - CHI-CUADRADO DE PEARSON
+================================================================================
+
+Nivel de significancia: α = 0.05
+
+PRUEBA PRINCIPAL:
+Chi-cuadrado de Pearson entre grupo y nivel de respuesta en el post-test.
+
+Clasificación por variable:
+1-2 = Desfavorable
+3   = Moderado
+4-5 = Favorable
+
+RESULTADOS POR VARIABLE
+--------------------------------------------------------------------------------
+
+Variable: Sistema de gestión académica web
+  Chi-cuadrado = 207.6149
+  gl = 2
+  p = 0.000000
+  V de Cramer = 0.5768
+  Asociación: asociación fuerte
+  Significancia: p < 0.001
+  Decisión: Rechazar H0
+
+Variable: Chatbot
+  Chi-cuadrado = 165.2779
+  gl = 2
+  p = 0.000000
+  V de Cramer = 0.5147
+  Asociación: asociación fuerte
+  Significancia: p < 0.001
+  Decisión: Rechazar H0
+
+Variable: Gestión académica
+  Chi-cuadrado = 159.3876
+  gl = 2
+  p = 0.000000
+  V de Cramer = 0.5054
+  Asociación: asociación fuerte
+  Significancia: p < 0.001
+  Decisión: Rechazar H0
+
+Variable: Atención al cliente
+  Chi-cuadrado = 196.7519
+  gl = 2
+  p = 0.000000
+  V de Cramer = 0.5615
+  Asociación: asociación fuerte
+  Significancia: p < 0.001
+  Decisión: Rechazar H0
+
+================================================================================
+ANÁLISIS PRE-TEST
+================================================================================
+
+Sistema de gestión académica web | χ²=1.3844 | gl=2 | p=0.500485 | V=0.0471 | No rechazar H0
+Chatbot | χ²=0.2758 | gl=2 | p=0.871190 | V=0.0210 | No rechazar H0
+Gestión académica | χ²=2.3926 | gl=2 | p=0.302307 | V=0.0619 | No rechazar H0
+Atención al cliente | χ²=1.4683 | gl=2 | p=0.479908 | V=0.0485 | No rechazar H0
